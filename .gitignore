@@ -1,0 +1,15 @@
+# Ignore Obsidian workspace settings
+# .obsidian/
+**/.obsidian/workspace.json
+
+# Ignore trash files
+.trash/
+
+# Optional: Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore backup or sync tool files
+*.bak
+*.tmp
+.sync/
